@@ -1,7 +1,30 @@
 body {
-    background-color: lightgray;
+    background-color: slategray;
 }
 
 .bio {
     font-size: 25px;
+}
+
+table {
+    
+    width: 750px;
+    margin: 40px auto;
+    background-color: #fff;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+#nim {
+    font-weight: bold;
+    width: 410px;
+}
+
+#nama {
+    font-weight: bolder;
+    width: 410px;
+}
+
+#sayasaya {
+    border: 1px solid black;
 }
